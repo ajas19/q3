@@ -1,0 +1,6 @@
+you create 4 process
+
+1st proocess ask the number from user
+2nd process find the facorial of the number and print it
+3rd process check number is odd or even;
+4th process print your index times enetered number;
